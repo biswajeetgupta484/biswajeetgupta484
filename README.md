@@ -1,23 +1,15 @@
+
+## Hey👋, I'm Rajat Tyagi
+
+
+A student of B.Tech. in Computer Science and Engg skilled in Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
+
 - 👋 Hi, I’m @biswajeetgupta484.
 - 👀 I’m interested in Flutter.
 - 🌱 I’m currently Looking for internship as well as fulltime opportunity.
 - 💞️ I’m looking to collaborate on freelancing flutter projects.
 - 📫 Reach me: Biswajeetgupta484@gmail.com
 
-<!---
-biswajeetgupta484/biswajeetgupta484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hey👋, I'm Rajat Tyagi
-
-
-A student of B.Tech. in Computer Science and Engg skilled in Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
-
-- 🔭 I’m currently working on Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS.
-- 🌱 I’m currently learning Data Structures and algorithms, Full stack development.
-- 👯 I’m looking to collaborate on Projects, Tech Articles.
-- 💬 Talk to me about Problem Solving, android development, Web development, and Open Source.
-- 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajattyagi0804&label=Profile%20views&color=0e75b6&style=flat" alt="rajattyagi0804" /> </p>
 
